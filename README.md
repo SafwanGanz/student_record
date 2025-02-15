@@ -70,15 +70,15 @@ student-management/
 ## 🖼️ Screenshots
 
 ### Main Menu
-![Main Menu](https://via.placeholder.com/600x300.png?text=Main+Menu+Screenshot)  
+![Main Menu](https://i.ibb.co/7tNXcmwM/Screenshot-2025-02-16-023507.png)  
 *(Replace with a screenshot of the main menu)*
 
 ### Add Student
-![Add Student](https://via.placeholder.com/600x300.png?text=Add+Student+Screenshot)  
+![Add Student](https://i.ibb.co/1YGY6vCr/Screenshot-2025-02-16-024100.png)  
 *(Replace with a screenshot of adding a student)*
 
 ### Display Students
-![Display Students](https://via.placeholder.com/600x300.png?text=Display+Students+Screenshot)  
+![Display Students](https://i.ibb.co/KHS9wmQ/Screenshot-2025-02-16-024141.png)  
 *(Replace with a screenshot of displaying students)*
 
 ---
