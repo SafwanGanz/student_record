@@ -1,7 +1,7 @@
 
 # 📚 Student Management System
 
-![Student Management System](https://i.ibb.co/My7TnYLx/download.png)  
+![Student Management System](https://i.ibb.co/1J01wJK4/20250216-032415.jpg)  
 
 A simple and user-friendly **command-line-based student management system** written in C. This program allows you to manage student records efficiently, including adding, displaying, searching, editing, deleting, and sorting students. It also supports saving and loading data to/from a file. 🚀
 
