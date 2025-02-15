@@ -87,22 +87,22 @@ student-management/
 
 1. **Add a Student**:
    ```
-   Enter ID: 101
-   Enter Name: John Doe
+   Enter ID: 205
+   Enter Name: Safwan
    Enter Marks: 85.5
    Student added successfully. ✅
    ```
 
 2. **Display Students**:
    ```
-   ID: 101, Name: John Doe, Marks: 85.50
-   ID: 102, Name: Jane Smith, Marks: 90.00
+   ID: 205, Name: Safwan, Marks: 85.50
+   ID: 206, Name: Rishab, Marks: 90.00
    ```
 
 3. **Search for a Student**:
    ```
-   Enter ID to search: 101
-   ID: 101, Name: John Doe, Marks: 85.50
+   Enter ID to search: 205
+   ID: 205, Name: Safwan, Marks: 85.50
    ```
 
 4. **Delete a Student**:
@@ -113,8 +113,8 @@ student-management/
 
 5. **Edit a Student**:
    ```
-   Enter ID to edit: 102
-   Enter new Name: Jane Brown
+   Enter ID to edit: 206
+   Enter new Name: Rishab
    Enter new Marks: 92.0
    Student information updated successfully. ✅
    ```
