@@ -107,7 +107,7 @@ student-management/
 
 4. **Delete a Student**:
    ```
-   Enter ID to delete: 101
+   Enter ID to delete: 205
    Student deleted successfully. ✅
    ```
 
