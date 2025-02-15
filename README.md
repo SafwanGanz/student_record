@@ -163,7 +163,7 @@ This project is open-source and available under the **MIT License**. Feel free t
 
 ---
 
-Made with ❤️ by [Your Name].  
+Made with ❤️ by SafwanGanz.  
 Happy coding! 🚀
 
 
